@@ -15,3 +15,5 @@ def check(list):
 print(check(input_discharges))
 
 ```
+
+This is Function script
