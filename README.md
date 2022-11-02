@@ -1,4 +1,4 @@
-``` python
+ ``` python
 
 input_discharges = [1000, 1500, 1900, 2000, 2500]
 set_limit = 1900
@@ -15,5 +15,3 @@ def check(list):
 print(check(input_discharges))
 
 ```
-
-This is Function script
